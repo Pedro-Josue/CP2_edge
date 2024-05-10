@@ -1,6 +1,6 @@
-# CP2 edge
+# CP2 edge computing
 
-Projeto de um sensor de luminosidade, temperatura e umidade para uma vinheria utilizando o arduino uno.
+Projeto de um sensor de luminosidade, temperatura e umidade para a vinheria agnello utilizando o arduino uno.
 ![para_o_readme](https://github.com/Pedro-Josue/CP2_edge/assets/164249602/790574b9-a73b-4ce4-8e03-cf9093408f31)
 
 ## Funcionalidades do projeto
