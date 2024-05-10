@@ -4,18 +4,23 @@ Projeto de um sensor de luminosidade, temperatura e umidade para a vinheria agne
 ![para_o_readme](https://github.com/Pedro-Josue/CP2_edge/assets/164249602/790574b9-a73b-4ce4-8e03-cf9093408f31)
 
 ## Funcionalidades do projeto
-* display LCD para informar ao usuário as informações geradas pelos sensores
-* sensor DHT11 que mede a temperatura e umidade do ambiente
-* sensor LDR para medir a luminosidade do ambiente
-
+* Display LCD para informar ao usuário as informações geradas pelos sensores
+* Sensor DHT11 que mede a temperatura e umidade do ambiente
+* Sensor LDR para medir a luminosidade do ambiente
+* Buzzer que apita incessantemente caso a temperatura, umidade e luminosidade estejam muito altas
+* Caso a temperatura, umidade e luminosidade estejam em um meio termo a buzzer apita pausadamente
+* Pino de led vermelho é acesso junto com a buzzer incessante
+* Pino de led amarelo é acesso junto com a buzzer pausada
+* Pino de led verde e acesso caso as condições estejam boas
+  
 ## Tecnologias utilizadas
-* arduino IDE
+* Arduino IDE
 * Wokwi
 
 ## Como rodar a aplicação
-1. copie o codigo
-2. cole na IDE do arduino
-3. utilizando o projeto na Wokwi como base, monte o seu circuito arduino
+1. Copie o codigo
+2. Cole na IDE do arduino
+3. Utilizando o projeto na Wokwi como base, monte o seu circuito arduino
 4. Rode o codigo
 
 ## Integrantes
